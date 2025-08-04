@@ -6,6 +6,8 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
+import sphinx_rtd_theme
+
 project = 'Levitate Platform Team Documentation'
 copyright = '2025, Platform Team'
 author = 'Platform Team'
@@ -23,5 +25,16 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'alabaster'
+# html_theme = 'alabaster'
 html_static_path = ['_static']
+
+extensions = [
+    'sphinx_rtd_theme',
+    # other extensions...
+]
+
+html_theme = 'sphinx_rtd_theme'
+
+# Optional: Set theme path explicitly
+html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+

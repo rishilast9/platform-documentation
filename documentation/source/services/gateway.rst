@@ -111,6 +111,31 @@ Why is this feature important for Ops and Developers?
 
 How to use this feature for debugging?
 
+
++++++++++++++++++
+Regional Gateways
++++++++++++++++++
+
+
++++++++++++++++++++
+Carlinality Limiter
++++++++++++++++++++
+
++++++++++++++++
+Metrics Dropper
++++++++++++++++
+
+++++++++++++++++++++++++++++++++
+Authentication and Authorization
+++++++++++++++++++++++++++++++++
+
+
+Why is this feature important for users?
+
+Why is this feature important for Ops and Developers?
+
+How to use this feature for debugging?
+
 ------------------------
 Issues/Incidents in Past
 ------------------------
