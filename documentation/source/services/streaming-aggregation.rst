@@ -1,17 +1,12 @@
-============
-Service Name
-============
+=====================
+Streaming Aggregation
+=====================
 
 ------------
 Introduction
 ------------
 
 TODO
-
-+++++++++++++
-Block Diagram
-+++++++++++++
-
 
 ------------
 How to build

@@ -1,6 +1,6 @@
-============
-Service Name
-============
+=============
+Event Gateway
+=============
 
 ------------
 Introduction

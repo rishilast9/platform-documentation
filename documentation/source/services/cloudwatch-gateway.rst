@@ -1,6 +1,6 @@
-============
-Service Name
-============
+==================
+Cloudwatch Gateway
+==================
 
 ------------
 Introduction
@@ -11,7 +11,6 @@ TODO
 +++++++++++++
 Block Diagram
 +++++++++++++
-
 
 ------------
 How to build
